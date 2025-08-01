@@ -10,7 +10,7 @@ Help us build a powerful, privacy-friendly, open-source **AI-based location pred
 
 ### Why?
 
-Modern location-guessing AI is impressive — but often locked behind paywalls, closed datasets, and proprietary models. We believe in **transparency**, **education**, and **collaboration**.
+Modern location-guessing AI is impressive but often locked behind paywalls, closed datasets, and proprietary models. I believe in **transparency**, **education**, and **collaboration**.
 
 Together, we can build a smarter, more transparent tool that:
 
