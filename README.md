@@ -6,7 +6,7 @@
 
 I'm calling all developers, ML engineers, AI enthusiasts, and open-source contributors:
 
-Help us build a powerful, privacy-friendly, open-source **AI-based location prediction engine** — a true alternative to closed systems!.
+Help us build a powerful, privacy-friendly, open-source **AI-based location prediction engine** a true alternative to closed systems!.
 
 ### Why?
 
