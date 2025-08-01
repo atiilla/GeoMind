@@ -43,10 +43,6 @@ Together, we can build a smarter, more transparent tool that:
 3. **Pick an area to contribute** (code, data, docs)
 4. **Build something awesome with us**
 
-### Working Project Name
-
-We’re currently naming it **Locatera** (open to suggestions). The idea is simple: a world-class AI that can *see* and *guess* where you are.
-
 ---
 
 **Let’s make the world’s best open-source AI Geo Location Guesser together.**
